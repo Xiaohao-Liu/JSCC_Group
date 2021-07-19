@@ -1,5 +1,7 @@
 # JSCC Reading Group
 
+- [JSCC Reading Group](#jscc-reading-group)
+  - [Papers](#papers)
 ## Papers
 
 [Neural Joint Source-Channel Coding](https://arxiv.org/abs/1811.07557). ICML 2019
