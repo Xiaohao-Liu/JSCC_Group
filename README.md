@@ -6,6 +6,10 @@
 
 [Neural Joint Source-Channel Coding](https://arxiv.org/abs/1811.07557). ICML 2019
 
+[SNR-Adaptive Deep Joint Source-Channel Coding for Wireless Image Transmission]() ICASSP 2021
+
+[Deep Joint Source Channel Coding for Wireless Image Transmission with OFDM]() ICC 2021
+
 [Deep Learning for Joint Source-Channel Coding of Text]() ICASSP 2018
 
 [Joint source/channel coding for variable length codes]() TCOM 2000
@@ -17,7 +21,6 @@
 [Joint source-channel coding with neural networks for analog data compression and storage]() DCC 2018
 
 [Infomax neural joint source-channel coding via adversarial bit flip]() AAAI 2020
-
 
 [Deep joint source-channel coding of images with feedback]() ICASSP 2020
 
@@ -32,7 +35,6 @@
 [Joint source-channel coding for the transmission of correlated sources over two-way channels]() ISIT 2019
 
 [Robust Gaussian Joint Source-Channel Coding Under the Near-Zero Bandwidth Regime]() ISIT 2019
-
 
 [Joint source-channel coding with feedback]() TIT 2017
 
